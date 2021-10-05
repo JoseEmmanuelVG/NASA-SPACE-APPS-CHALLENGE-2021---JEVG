@@ -3,6 +3,7 @@
 # ENGLISH REPORT
 ##  					**CHALLENGE**
 ## IDENTIFYING RISK WITH SCIENCE + COMMUNITIES
+###### "SOFTWARE AND CONSCIENCE FEED INTELLIGENCE" 
 
 ### GENERAL OBJECTIVE
 Create prototypes and methodologies to incorporate Earth observations (as satellite data) with local open data provided by national entities and scientific institutes. 
