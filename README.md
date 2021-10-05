@@ -44,3 +44,8 @@ In this sense, since 2000, the Latin American region has had an average of 152 m
 ###### Probabilistic method for forecasting future landslides, use of WORLDVIEW and artificial intelligence.
 Azure Real Time Analytics on Big Data Architecture or Azure Stream Analytics is used, where the data that WORLDVIEW gives us will be obtained, such as humidity, volcanic activity, temperature and those triggers of the area to be studied. All these data can be obtained through the EARTHDATA SEARCH.
 An example of the case of Cerro Chiquihuite, a day before the landslide, the conditions and climatological factors were favorable to produce a landslide:
+
+![1](https://user-images.githubusercontent.com/89156254/135971244-48c3c0b8-2662-4b48-b0e9-822ca86f0a15.png)
+
+One day later, when the collapse occurs, the energy begins to dissipate after having been released.
+![2](https://user-images.githubusercontent.com/89156254/135971437-8b5ea41b-acc9-4965-bfa2-9eb5e19fdb44.png)
