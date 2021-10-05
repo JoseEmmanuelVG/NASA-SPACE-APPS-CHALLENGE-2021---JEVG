@@ -164,7 +164,19 @@ https://www.esiatic.ipn.mx/geofenomenos/agrietamientos/agrietamientos.html
 
  	José Jesús Guzmán Eusebio (2021), Internship: Course on Artificial Intelligence and use of Azure, Virtual Innovation, Microsoft Azure.
  	ROYAL ACADEMIA ESPAÑOLA: Dictionary of the Spanish language, 23rd ed., [Version 23.4 online]. <https://dle.rae.es> [02-03 / 102021].
+	
+###### 30 second video for NASA
+https://user-images.githubusercontent.com/89156254/135974233-409f5a71-cb70-4efb-a62d-d28f6ebfd452.mp4
+
+###### SPACE APPS CHALLENGE AND AZURESPACE APPS CHALLENGE AND AZURE
+https://user-images.githubusercontent.com/89156254/135974345-22834e91-247a-4405-8b39-574d20063ad1.mp4
+
+###### SPACE APPS CHALLENGE AND AZURESPACE APPS CHALLENGE AND AZURE EXTENDED SPEECH VIDEO VERSION
+https://user-images.githubusercontent.com/89156254/135974357-3d0e4571-fed7-4778-b230-d69499f7f586.mp4
+	
 #### About me
 ###### 20-year-old Mexican student, Mechatronics Engineering at IPN
 ###### Preparing in VIRTUAL INOVACTION for the Exam AZ-900: Microsoft Azure Fundamentals (Course focus on AI)
 ![7](https://user-images.githubusercontent.com/89156254/135973777-97f6eff0-a67c-454b-b335-19b0cb61dbac.png)
+
+
