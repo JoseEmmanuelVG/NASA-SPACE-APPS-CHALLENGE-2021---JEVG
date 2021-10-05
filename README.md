@@ -41,7 +41,6 @@ In this sense, since 2000, the Latin American region has had an average of 152 m
 ### Proposed solutions
 
 #### Using satellite visualization means
-		Probabilistic method for forecasting future landslides, use of WORLDVIEW and artificial intelligence.
-
+###### Probabilistic method for forecasting future landslides, use of WORLDVIEW and artificial intelligence.
 Azure Real Time Analytics on Big Data Architecture or Azure Stream Analytics is used, where the data that WORLDVIEW gives us will be obtained, such as humidity, volcanic activity, temperature and those triggers of the area to be studied. All these data can be obtained through the EARTHDATA SEARCH.
 An example of the case of Cerro Chiquihuite, a day before the landslide, the conditions and climatological factors were favorable to produce a landslide:
