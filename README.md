@@ -181,4 +181,6 @@ https://user-images.githubusercontent.com/89156254/135974357-3d0e4571-fed7-4778-
 ###### Preparing in VIRTUAL INOVACTION for the Exam AZ-900: Microsoft Azure Fundamentals (Course focus on AI)
 ![7](https://user-images.githubusercontent.com/89156254/135973777-97f6eff0-a67c-454b-b335-19b0cb61dbac.png)
 
-
+<p align="center">
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+</p>
